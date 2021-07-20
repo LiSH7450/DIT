@@ -7,13 +7,13 @@ file list:
 
 folder list:
 
-    1.Data : The data  we used in model building.
+    1.Data : The data we used in model building.
   
-    2.model : The final SVM
+    2.model : The final SVM.
 
  
 Note：
 
     1.In the Train 2D.SDF and Train 3D.SDF files, the first 67 are positive samples and the last 45 are negative samples.
   
-    2.Data ,code and models need to be placed under the same path.
+    2.Data, code and models need to be placed under the same path.
